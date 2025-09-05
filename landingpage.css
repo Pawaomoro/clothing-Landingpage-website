@@ -1,0 +1,162 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    background-color: #1f2937;
+    padding: 30px 50px;   
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    align-items: center;
+    
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    
+}
+.header img{
+    width: 120px;
+    height: auto;
+}
+.headerbody{
+    background-color: #1f2937;
+    padding-top: 20px;
+    color: white;
+    gap: 10px;
+    display: flex;
+    padding: 60px;
+    
+   
+}
+.headerbody img{
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    
+}
+.headerbody p{
+    margin-left: 100px;
+}
+.hero{
+     font-size: 35px;
+     font-weight: 900;
+}
+.signup{
+    color: white;
+    margin-left: 100px;
+    margin-top: 15px;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+}
+.signup:hover{
+    background-color: #0056b3;
+}
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.card{
+    width: 200px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+
+}
+.card img{
+    width: 100%;
+    border-radius: 10px;
+}
+.random{
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+
+}
+.testimony{
+    background-color: #e5e7eb;
+    font-style: italic;
+    margin: 60px auto;
+    text-align: center;
+    padding: 80px;
+
+}
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    
+
+}
+.testimony .author{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+.calltoaction{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: #007BFF;
+    border-radius: 12px;
+    color: white;
+    font-family: roboto;
+    padding: 40px 20px;
+    width: 100%;
+    top: 0;
+    right: 0;
+    height: 100%;
+    z-index: -1;
+    max-width: 800px;
+    margin: 60px auto;   
+}
+.call{
+    font-size: 25px;
+    
+}
+.textcall{
+    justify-content: center;
+}
+.signupcall{
+    background-color: #007BFF;
+    color: white;
+    margin-left: 100px;
+    margin-top: 15px;
+    border: 2px solid white;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.signupcall:hover{
+    background-color: white;
+    color: #007BFF;
+}
+footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
