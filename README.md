@@ -6,34 +6,35 @@ This project is a static landing page created as part of The Odin Project
 
 Features
 
-Header with logo and navigation
+	Header with logo and navigation
 
-Hero section with image and text
+	Hero section with image and text
 
-Call-to-action section with sign-up button
+	Call-to-action section with sign-up button
 
-Testimonial section
+	Testimonial section
 
-Styled cards for showcasing content
+	Styled cards for showcasing content
 
 Technologies Used
 
-HTML5 for the structure
+•	HTML5 for the structure
 
-CSS3 (Flexbox for layout)
+•	CSS3 (Flexbox for layout)
 
-Google Fonts (Roboto)
+•	Google Fonts (Roboto)
 
-Git & GitHub for version control
+•	Git & GitHub for version control
 
 What I Learned
 
-Structuring a webpage using semantic HTML
+	Structuring a webpage using semantic HTML
 
-Positioning and aligning elements using flexbox
+	Positioning and aligning elements using flexbox
 
-Styling with margins, paddings, and background colors
+	Styling with margins, paddings, and background colors
 
-Creating simple cards and buttons
+	Creating simple cards and buttons
 
-Basic Git workflow (git add, git commit, git push)
+	Basic Git workflow (git add, git commit, git push)
+
